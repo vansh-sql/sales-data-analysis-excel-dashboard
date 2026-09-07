@@ -12,7 +12,7 @@ The final output is an interactive Sales Dashboard designed to provide a clear o
 
 ## Dashboard Preview
 
-![Sales Dashboard](Dashboard_Screenshot.png)
+![Sales Dashboard](Sales_Dashboard_Preview.png)
 
 ---
 
